@@ -49,4 +49,4 @@ Run the script using the following command:
 ```bash
 python technology_detection.py <target>
 ```
-For questions or support, feel free to contact: [your-email@example.com]
+
